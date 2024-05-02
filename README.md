@@ -69,8 +69,6 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawazsharif&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="coderdaiyan" /></p>
 
-Please find the text below, which has an image of coderdaiyan at its center:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawazsharif&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="coderdaiyan" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawazsharif&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="nawazsharif" /></p>
