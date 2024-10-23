@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Laravel and React
 - 👯 I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: [@nawazsharif](https://twitter.com/nawazsharif_200) or [@nawazsharif](https://www.linkedin.com/in/nawaz-sharif-2b2385a8/) or <a rel="me" href="mailto:nawazsharif.csm@gmail.com">Email</a>
-- 😄 2021 Goals: Contribute more to Open Source projects
+- 😄 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I Love to Traveling and Fish Keeping
 
 <br />
